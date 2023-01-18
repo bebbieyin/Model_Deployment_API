@@ -17,7 +17,7 @@ To call the API, there are two methods. First method is to use the Postman appli
   
 In Body -> form-data, insert KEY as 'image', choose File type and upload your image in the VALUE tab. 
     
-![Postman](https://github.com/bebbieyin/Model_Deployment_API/tree/master/imgs/screenshot.PNG)
+![Postman](https://github.com/bebbieyin/Model_Deployment_API/blob/master/imgs/screenshot.PNG)
      
 ### Method 2 - Using Python script : 
 
