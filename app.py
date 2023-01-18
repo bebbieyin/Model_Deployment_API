@@ -55,4 +55,4 @@ if __name__ == '__main__':
     model = load_model(MODEL_PATH,device)
     
     # run the server
-    app.run(port=5000, debug=True)
+    app.run(port=8000, debug=True)
